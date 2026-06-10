@@ -312,25 +312,23 @@ As variáveis e os tipos de dados são fundamentais para o desenvolvimento em PH
     </td>
        <!-- Samantha -->
     <td align="center">
-      <a href="">
+      <a href="https://github.com/samy-blip">
         <img width="420" height="420" alt="212536383" src="https://github.com/user-attachments/assets/9d7b8c95-4607-41a8-8740-c7aba2369836" />
-        <b>Lucxzhhh</b>
+        <b>SamyMaciel</b>
       </a>
     </td>
     <!-- Maria Durães -->
     <td align="center">
       <a href="https://github.com/MiguelLuz09">
         <img src="https://github.com/user-attachments/assets/277ede45-3103-4534-abc0-c96ef90d9a01" width="140"><br>
-        <b>MiguelLuz09</b>
+        <b></b>
       </a>
     </td>
     <!-- Rafael Melo -->
     <td align="center">
         <img width="420" height="420" alt="268879143" src="https://github.com/user-attachments/assets/e264f330-6588-4cf3-bf12-166b799f651e" />
-      <a href="https://github.com/roedaMiguel">
-        
-
-        <b>Roeda Miguel</b>
+      <a href="https://github.com/Rafael-de-Melo55">
+        <b>Rafael-de-Melo55</b>
       </a>
     </td>
   </tr>
