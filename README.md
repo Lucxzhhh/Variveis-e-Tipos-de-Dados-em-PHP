@@ -293,3 +293,47 @@ As variáveis e os tipos de dados são fundamentais para o desenvolvimento em PH
 
 - W3Schools – PHP Data Types
 - https://www.w3schools.com/php/php_datatypes.asp
+
+  ## 👨‍💻 Equipe de Desenvolvimento
+
+<i>Projeto desenvolvido por estudantes do 2º ano de Desenvolvimento de Sistemas - ETEC</i>
+
+</div>
+<br>
+
+<table align="center">
+  <tr>
+    <!-- Lucas -->
+    <td align="center">
+      <a href="https://github.com/Lucxzhhh">
+        <img src="https://github.com/user-attachments/assets/b0f08778-8ee4-4370-a426-2c43b95f3b1a" width="140"><br>
+        <b>Lucxzhhh</b>
+      </a>
+    </td>
+       <!-- Samantha -->
+    <td align="center">
+      <a href="">
+        <img width="420" height="420" alt="212536383" src="https://github.com/user-attachments/assets/9d7b8c95-4607-41a8-8740-c7aba2369836" />
+        <b>Lucxzhhh</b>
+      </a>
+    </td>
+    <!-- Maria Durães -->
+    <td align="center">
+      <a href="https://github.com/MiguelLuz09">
+        <img src="https://github.com/user-attachments/assets/277ede45-3103-4534-abc0-c96ef90d9a01" width="140"><br>
+        <b>MiguelLuz09</b>
+      </a>
+    </td>
+    <!-- Rafael Melo -->
+    <td align="center">
+        <img width="420" height="420" alt="268879143" src="https://github.com/user-attachments/assets/e264f330-6588-4cf3-bf12-166b799f651e" />
+      <a href="https://github.com/roedaMiguel">
+        
+
+        <b>Roeda Miguel</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
