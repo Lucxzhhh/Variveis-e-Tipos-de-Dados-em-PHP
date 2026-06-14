@@ -13,7 +13,7 @@ Variáveis são utilizadas para armazenar dados que podem ser utilizados ao long
 ### Exemplo
 
 ```php
-$nome = "Maria";
+$nome = "Carlos";
 $idade = 20;
 ```
 
