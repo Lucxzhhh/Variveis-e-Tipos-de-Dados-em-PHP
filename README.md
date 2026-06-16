@@ -3,6 +3,7 @@
 ## Grupo B2-Maria Eduarda Mesquita, Lucas Caldas, Rafael Alves e Samantha Maciel
 
 
+---
 
 
 # Variáveis e Tipos de Dados em PHP
