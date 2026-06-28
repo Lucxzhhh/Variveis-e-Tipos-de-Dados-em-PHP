@@ -2,6 +2,8 @@
 
 ## Grupo B2-Maria Eduarda Mesquita, Lucas Caldas, Rafael Alves e Samantha Maciel
 
+### Link do vídeo:  https://youtu.be/y4npIW0tdIQ
+
 
 ---
 
